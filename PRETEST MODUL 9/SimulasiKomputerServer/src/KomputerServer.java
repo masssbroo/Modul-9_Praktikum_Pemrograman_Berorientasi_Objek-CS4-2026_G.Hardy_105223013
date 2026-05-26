@@ -1,4 +1,3 @@
-// File: KomputerServer.java
 public class KomputerServer {
     
     /* =========================================================================
